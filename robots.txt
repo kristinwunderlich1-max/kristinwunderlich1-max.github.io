@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://kristinwunderlich1-max.github.io/sitemap.xml
