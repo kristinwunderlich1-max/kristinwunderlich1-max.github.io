@@ -555,3 +555,9 @@ h3 {
     object-fit: cover;
     border-radius: 20px;
 }
+.story-photo-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+}
