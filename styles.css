@@ -556,9 +556,20 @@ h3 {
     border-radius: 20px;
 }
 .story-photo-image {
-    width: 100%;
-    height: 300px;
-    display: block;
-    object-fit: cover;
-    object-position: center center;
+  width: 100%;
+  height: 260px;
+  display: block;
+  object-fit: cover;
+}
+
+.story-photo-image.oliver-photo {
+  object-position: center 42%;
+}
+
+.story-photo-image.baxter-photo {
+  object-position: center 35%;
+}
+
+.story-photo-image.sasha-photo {
+  object-position: center 24%;
 }
